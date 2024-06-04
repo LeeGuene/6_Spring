@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f5ee281-c05e-444f-a8cb-33414625b300" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../memo/1_basic.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../memo/1_basic.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-annotations-2.17.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-core-2.17.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-databind-2.17.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-datatype-jdk8-2.17.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-datatype-jsr310-2.17.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jackson-module-parameter-names-2.17.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jakarta.annotation-api-2.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jul-to-slf4j-2.0.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/log4j-api-2.23.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/log4j-to-slf4j-2.23.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logback-classic-1.5.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logback-core-1.5.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/micrometer-commons-1.12.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/micrometer-observation-1.12.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/slf4j-api-2.0.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/snakeyaml-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-aop-6.1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-beans-6.1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-boot-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-boot-autoconfigure-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-boot-starter-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-boot-starter-json-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-boot-starter-logging-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-boot-starter-tomcat-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-boot-starter-web-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-context-6.1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-core-6.1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-expression-6.1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-jcl-6.1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-web-6.1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/spring-webmvc-6.1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tomcat-embed-core-10.1.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tomcat-embed-el-10.1.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tomcat-embed-websocket-10.1.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koreait/spring/springtest1/SpringTest1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koreait/spring/springtest1/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/koreait/spring/springtest1/SpringTest1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/koreait/spring/test/TestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/test/java/koreait/spring/test/TestApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="springTest1" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2hDSdDavCndjqwiJNbhgrXazxyZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Gradle.Build springTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringTest1Application.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Back_End_leeGuene/6_spring/workspace/springTest1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="koreait.spring.springtest1.controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringTest1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springTest1.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="koreait.spring.springtest1.SpringTest1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f5ee281-c05e-444f-a8cb-33414625b300" name="Changes" comment="" />
+      <created>1717127242819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717127242819</updated>
+      <workItem from="1717127243910" duration="3213000" />
+      <workItem from="1717164093989" duration="625000" />
+      <workItem from="1717165015808" duration="728000" />
+      <workItem from="1717222404456" duration="3111000" />
+      <workItem from="1717397015211" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
