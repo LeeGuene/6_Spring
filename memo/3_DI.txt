@@ -19,6 +19,20 @@
 			- 의존성 주입 시점에서 문제가 발생할 확률이 낮다.
 			- 생성자에만 의존성 주입이 일어나기 때문에 가독성이 높고, 관리하기가 용이합니다.
 
+Lombok
+	자바에서 반복적으로 작성해야 하는 코드를 줄여주는 라이브러리
+	어노테이션 기반으로 동작하며, Object 클래스에서 재정의하는 것들이나 생성자 등을 자동으로 생성해준다.
+	깔끔하고 유지보수하기 쉬운 코드를 작성할 수 있게 된다.
+
+	@Getter
+	@Setter				
+	@ToString					: toString 재정의
+	@EqualsAndHashCode 		: equals 및 hashcode 재정의
+	@NoArgsConstructor			: 기본 생성자
+	@AllArgsConstructor			: 모든 필드를 매개변수로 가지는 초기화 생성자
+	@RequiredArgsConstructor		: 특정 필드를 매개변수로 가지는 생성자  ( 제외된 필드와 구분해주기 위해 "final, @NonNull 키워드를 붙여준다. )
+	@Data 					: 생성자 중에서 RequiredArgsConstructor만 만들어준다. ( 테스트용으로 사용 )
+							( 단, 기본 생성자가 없는 경우에만 적용된다. )
 
 테스트용 클래스 만들기
 	클래스명 뒤에 마우스 커서가 오게 하고, "Alt + Enter"키
